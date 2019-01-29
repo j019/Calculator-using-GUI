@@ -8,4 +8,4 @@
 ### 2. Created various buttons for performing oprations.
 
 ## Screenshots:
- ![alt home](https://j019.github.io/Calculator-using-GUI/calc.png)
+ ![alt home](https://github.com/j019/Calculator-using-GUI/blob/master/Calculator_project/calc.png)
